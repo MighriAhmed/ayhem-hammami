@@ -1,0 +1,10 @@
+node_modules
+dist
+.DS_Store
+*.log
+.vercel
+
+# Local source files that are not part of the website
+/_preview.jpg
+/*.png
+/AYHEM_HAMMAMI_FlowCV_Resume_2026-10-19 (1).pdf
